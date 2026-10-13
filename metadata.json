@@ -1,0 +1,6 @@
+{
+  "name": "Classic Glass & Mirror - Commercial Door & Lock Repair",
+  "description": "Commercial storefront door and lock repair in Dallas–Fort Worth. Help with sticking doors, damaged pivots, closers and mortise locks. 24-hour service. Call Classic Glass & Mirror.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
